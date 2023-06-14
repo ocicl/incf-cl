@@ -1,10 +1,9 @@
 * incf-cl
 
+A collection of convenience functions and macros for Common Lisp
 
-
-|---------+-------------------------------------------|
-| source  | git:https://git.sr.ht/~jmbr/incf-cl   |
-| commit  |   |
-| systems | incf-cl |
-|---------+-------------------------------------------|
-
+|---------+-------------------------------------|
+| source  | git:https://git.sr.ht/~jmbr/incf-cl |
+| commit  | f5dd6d5c                            |
+| systems | incf-cl                             |
+|---------+-------------------------------------|
