@@ -2,8 +2,9 @@
 
 A collection of convenience functions and macros for Common Lisp
 
+
 |---------+-------------------------------------|
 | source  | git:https://git.sr.ht/~jmbr/incf-cl |
-| commit  | f5dd6d5c                            |
+| commit  | f5dd6d5                             |
 | systems | incf-cl                             |
 |---------+-------------------------------------|
